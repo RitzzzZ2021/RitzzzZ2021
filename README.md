@@ -1,4 +1,13 @@
-### Hi there 👋
+### Heyyyyy 😆
+Glad to meet you!  
+I'm RitzzzZ, an undergraduate studying computer science in Zhejiang University.  
+![mmexport1652940906868](https://user-images.githubusercontent.com/87000281/171819953-980ff4c8-dd2e-4e68-a119-040a2b7305dd.jpg)
+Something about me:  
+- 😪 I'm currently working on class projects for DB & OOP
+- 📖 I'm currently learning blockchain, deep learning and audio processing
+- 🎵 Hobby: music, movies and books
+- 📫 How to reach me: mokyen@163.com
+- 🍰 Keep coding & trying 
 
 <!--
 **RitzzzZ2021/RitzzzZ2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
