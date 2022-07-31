@@ -2,7 +2,7 @@
 Glad to meet you! I'm RitzzzZ, an undergraduate studying computer science in Zhejiang University.  
 
 #### Something about me:  
-- 😪 I'm currently working on class projects for DB & OOP
+- 😪 I'm currently enjoying summer vacation
 - 📖 I'm currently learning blockchain, deep learning and audio processing
 - 🎵 Hobby: music, movies and books
 - 📫 How to reach me: mokyen@163.com
