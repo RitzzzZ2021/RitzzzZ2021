@@ -3,9 +3,10 @@ Glad to meet you! I'm RitzzzZ, an undergraduate studying computer science in Zhe
 
 #### Something about me:  
 - 😪 I'm currently having summer vacation
-- 📖 I'm currently learning blockchain, deep learning and audio processing
+- 📖 I'm currently learning blockchain and deep learning
+- 🤔 I’m looking for opportunities to do research about deep learning
 - 🎵 Hobby: music, movies and books
-- 📫 How to reach me: mokyen@163.com
+- 📫 How to reach me: imxinyiz@gmail.com
 - 🍰 Keep coding & trying 
 
 <!--
