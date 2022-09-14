@@ -2,8 +2,8 @@
 Glad to meet you! I'm RitzzzZ, an undergraduate studying computer science in Zhejiang University.  
 
 #### Something about me:  
-- 😪 I'm currently having summer vacation
-- 📖 I'm currently learning blockchain and deep learning
+- 😪 I'm currently learning operating system and computer networks
+- 📖 I'm currently working on blockchain and deep learning
 - 🤔 I’m looking for opportunities to do research about deep learning
 - 🎵 Hobby: music, movies and books
 - 📫 How to reach me: imxinyiz@gmail.com
