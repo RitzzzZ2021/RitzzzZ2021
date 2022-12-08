@@ -1,10 +1,10 @@
 ### Heyyyyy 😆
-Glad to meet you! I'm RitzzzZ, an undergraduate studying computer science in Zhejiang University.  
+Glad to meet you! I'm Ritz, an undergraduate majoring in computer science at Zhejiang University.  
 
 #### Something about me:  
-- 😪 I'm currently learning operating system and computer networks
-- 📖 I'm currently working on blockchain and deep learning
-- 🤔 I’m looking for opportunities to do research about deep learning
+- 😪 I'm currently a junior student
+- 📖 I'm self-learning Machine Learning and Blockchain
+- 🤔 I’m looking for opportunities to do research on AI
 - 🎵 Hobby: music, movies and books
 - 📫 How to reach me: imxinyiz@gmail.com
 - 🍰 Keep coding & trying 
