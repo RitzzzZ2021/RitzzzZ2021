@@ -3,8 +3,8 @@ Glad to meet you! I'm Ritz, an undergraduate majoring in computer science at Zhe
 
 #### Something about me:  
 - 😪 I'm currently a junior student
-- 📖 I'm self-learning Machine Learning and Blockchain
-- 🤔 I’m looking for opportunities to do research on AI
+- 📖 I'm self-learning Computer Graphics
+- 🤔 I’m looking for opportunities to do research
 - 🎵 Hobby: music, movies and books
 - 📫 How to reach me: imxinyiz@gmail.com
 - 🍰 Keep coding & trying 
