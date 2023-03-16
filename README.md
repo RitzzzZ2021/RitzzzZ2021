@@ -7,7 +7,7 @@ Glad to meet you! I'm Ritz, an undergraduate majoring in computer science at Zhe
 - 🤔 I’m looking for opportunities to do research
 - 🎵 Hobby: music, movies and books
 - 📫 How to reach me: imxinyiz@gmail.com
-- 🍰 Keep coding & trying 
+- 🍰 Keep coding & trying to make a difference
 
 <!--
 **RitzzzZ2021/RitzzzZ2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
