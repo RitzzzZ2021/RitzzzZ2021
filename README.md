@@ -5,7 +5,7 @@ Glad to meet you! I'm Ritz, an undergraduate majoring in computer science at Zhe
 - 😪 I'm currently a junior student
 - 📖 My research interest lies in the intersection of Computer Graphics and Computer Vision
 - 🎵 Hobby: music, movies and books
-- 📫 How to reach me: imxinyiz@gmail.com
+- 📫 How to reach me: ritzzzz2020@outlook.com
 - 🍰 Keep coding & trying to make a difference
 
 <!--
