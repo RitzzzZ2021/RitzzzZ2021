@@ -3,8 +3,7 @@ Glad to meet you! I'm Ritz, an undergraduate majoring in computer science at Zhe
 
 #### Something about me:  
 - 😪 I'm currently a junior student
-- 📖 I'm learning Computer Graphics and Computer Vision
-- 🤔 I’m looking for opportunities to do research
+- 📖 My research interest lies in the intersection of Computer Graphics and Computer Vision
 - 🎵 Hobby: music, movies and books
 - 📫 How to reach me: imxinyiz@gmail.com
 - 🍰 Keep coding & trying to make a difference
