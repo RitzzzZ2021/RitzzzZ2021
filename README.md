@@ -1,4 +1,4 @@
-### Heyyyyy 😆
+### Hi there!😆
 Glad to meet you! I'm Ritz, an undergraduate majoring in computer science at Zhejiang University.  
 
 #### Something about me:  
