@@ -1,9 +1,9 @@
 ### Hi there!😆
-Glad to meet you! I'm Ritz, an undergraduate majoring in computer science at Zhejiang University.  
+Glad to meet you! I'm Ritz, an undergraduate at College of Computer Science and Technology, Zhejiang University.  
 
 #### Something about me:  
-- 😪 I'm currently a junior student
-- 📖 My research interest lies at the intersection of Computer Graphics and Computer Vision
+- 😪 I'm currently a senior, expected to graduate in 2024
+- 📖 My research interest lies at the intersection of Computer Graphics and Computer Vision, specifically, neural rendering and 3D generation/reconstruction
 - 🎵 Hobby: music, movies and books
 - 📫 How to reach me: ritzzzz2020@outlook.com
 - 🍰 Keep coding & trying to make a difference
