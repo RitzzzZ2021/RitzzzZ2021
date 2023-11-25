@@ -1,12 +1,12 @@
 ### Hi there!😆
-Glad to meet you! I'm Ritz, an undergraduate at College of Computer Science and Technology, Zhejiang University.  
+Glad to meet you! I'm Xinyi Zhou, an undergraduate studying computer science at Zhejiang University.  
 
 #### Something about me:  
 - 😪 I'm currently a senior, expected to graduate in 2024
-- 📖 My research interest lies at the intersection of Computer Graphics and Computer Vision, specifically, neural rendering and 3D generation/reconstruction
-- 🎵 Hobby: music, movies and books
-- 📫 How to reach me: ritzzzz2020@outlook.com
-- 🍰 Keep coding & trying to make a difference
+- 📖 My research interests lie in the intersection of Computer Graphics, Computer Vision and Machine Learning. To be specific, I have been doing research on human-centered 3D reconstruction and image-based rendering.
+- 🎵 Hobby: music (techno, cool jazz, progressive rock...), movies and literature
+- 📫 How to reach me: imxinyiz@gmail.com
+- 🍰 Stay curious & trying to make a difference
 
 <!--
 **RitzzzZ2021/RitzzzZ2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
