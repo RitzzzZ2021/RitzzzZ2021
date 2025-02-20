@@ -1,10 +1,9 @@
 ### Hi there!😆
-Glad to meet you! I'm Xinyi Zhou, an undergraduate studying computer science at Zhejiang University.  
+Glad to meet you! I'm Xinyi Zhou, a Computer Science student at Georgia Tech.  
 
 #### Something about me:  
-- 😪 I'm currently a senior, expected to graduate in 2024
-- 📖 My research interests lie in the intersection of Computer Graphics, Computer Vision and Machine Learning. To be specific, I have been doing research on human-centered 3D reconstruction and image-based rendering.
-- 🎵 Hobby: music (techno, cool jazz, progressive rock...), movies and literature
+- 😪 I'm currently a first-year master student, expected to graduate in 2026
+- 🎵 Hobby: music (techno, cool jazz, progressive rock...), movies, literature and hiking
 - 📫 How to reach me: imxinyiz@gmail.com
 - 🍰 Stay curious & trying to make a difference
 
