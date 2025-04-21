@@ -1,4 +1,4 @@
-## Hi there!😆
+## Hi there!
 Glad to meet you! My name is Xinyi Zhou. I'm a Computer Science student at Georgia Tech.  
 
 ### Something about me
@@ -14,7 +14,7 @@ Glad to meet you! My name is Xinyi Zhou. I'm a Computer Science student at Georg
 ![Profile Views](https://komarev.com/ghpvc/?username=ritzzzz2021&color=blue)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ritzzzz2021&hide_rank=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ritzzzz2021&hide_rank=true&layout=compact&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritzzzz2021&langs_count=8&card_width=320" />
