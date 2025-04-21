@@ -1,7 +1,7 @@
 ## Hi there!😆
 Glad to meet you! My name is Xinyi Zhou. I'm a Computer Science student at Georgia Tech.  
 
-### Something about me:  
+### Something about me
 - 😪 I'm currently a first-year master student, expected to graduate in 2026
 - 🌱 I’m currently learning distributed file system and KV-store
 - 🔭 Have experience working on 3D Generation, Data Visualization, and Full Stack Development
@@ -13,7 +13,7 @@ Glad to meet you! My name is Xinyi Zhou. I'm a Computer Science student at Georg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritzzzz2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ritzzzz2021&theme=light)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ritzzzz2021)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
