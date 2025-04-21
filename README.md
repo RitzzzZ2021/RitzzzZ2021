@@ -4,10 +4,10 @@ Glad to meet you! My name is Xinyi Zhou. I'm a Computer Science student at Georg
 ### Something about me
 - 😪 I'm currently a first-year master student, expected to graduate in 2026
 - 🌱 I’m currently learning distributed file system and KV-store
-- 🔭 Have experience working on 3D Generation, Data Visualization, and Full Stack Development
+- 🔭 Experiences working on 3D Generation, Data Visualization, and Full Stack Development
 - 🎵 Hobbies: music, movies, and travel
 - 📫 How to reach me: imxinyiz@gmail.com
-- 🍰 Stay curious & trying to make a difference
+- 🍰 My website: [https://ritzzzz2021.github.io/about](https://ritzzzz2021.github.io/about)
 
 ### 📊 GitHub Stats
 
@@ -15,6 +15,7 @@ Glad to meet you! My name is Xinyi Zhou. I'm a Computer Science student at Georg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritzzzz2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritzzzz2021&theme=github)
 
 
 <!--
