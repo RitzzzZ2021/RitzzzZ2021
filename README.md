@@ -11,9 +11,9 @@ Glad to meet you! My name is Xinyi Zhou. I'm a Computer Science student at Georg
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritzzzz2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=ritzzzz2021&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ritzzzz2021)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritzzzz2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
