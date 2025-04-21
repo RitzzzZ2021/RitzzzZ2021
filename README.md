@@ -17,7 +17,7 @@ Glad to meet you! My name is Xinyi Zhou. I'm a Computer Science student at Georg
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ritzzzz2021&hide_rank=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritzzzz2021&layout=donut-vertical&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritzzzz2021&langs_count=8&card_width=320" />
 </a>
 
 [![Xinyi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritzzzz2021&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
